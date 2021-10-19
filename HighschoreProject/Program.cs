@@ -10,7 +10,7 @@ namespace HighschoreProject
 
         static void Main(string[] args)
         {
-            CheckHighscore(450, "ben");
+            CheckHighscore(750, "lisa");
         }
 
         public static void CheckHighscore(int score, string playerName)
