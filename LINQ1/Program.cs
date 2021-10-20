@@ -6,7 +6,11 @@ namespace LINQ1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Amazon amazonliv = new Amazon();
+            //amazonliv.GetOrders();
+            amazonliv.GetTotalProducts();
+
+            Console.Read();
         }
     }
 }
