@@ -13,9 +13,6 @@ namespace Classes
         private int Age;
 
         // CONSTRUCTORS - can create limitless
-
-
-
         // non parameterized constructor, etc default constructor
         public Human()
         {
@@ -31,25 +28,25 @@ namespace Classes
             this.eyeColor = eyeColor;
         }
 
-        public Human(string firstName, string lastName, string eyeColor) // local variables referred to with 'this', example of parametrized constructor
+        public Human(string firstName, string lastName, string eyeColor) 
         {
             this.firstName = firstName;
             this.lastName = lastName;
             this.eyeColor = eyeColor;
         }
 
-        public Human(string firstName, int Age) // local variables referred to with 'this', example of parametrized constructor
+        public Human(string firstName, int Age) 
         {
             this.firstName = firstName;
             this.Age = Age;
         }
 
-        public Human(string firstName) // local variables referred to with 'this', example of parametrized constructor
+        public Human(string firstName) 
         {
             this.firstName = firstName;
         }
 
-        public Human(string firstName, string lastName) // local variables referred to with 'this', example of parametrized constructor
+        public Human(string firstName, string lastName) 
         {
             this.firstName = firstName;
             this.lastName = lastName;
