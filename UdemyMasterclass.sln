@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiDimensionalArrays", "M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfirmUserInputTypeProject", "ConfirmUserInputTypeProject\ConfirmUserInputTypeProject.csproj", "{0558E283-95BB-4F15-B352-CF6C87578E56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedForLoops", "NestedForLoops\NestedForLoops.csproj", "{FDF66AC5-DC06-4AAD-AE68-C30C28616DE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{0558E283-95BB-4F15-B352-CF6C87578E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0558E283-95BB-4F15-B352-CF6C87578E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0558E283-95BB-4F15-B352-CF6C87578E56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDF66AC5-DC06-4AAD-AE68-C30C28616DE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF66AC5-DC06-4AAD-AE68-C30C28616DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF66AC5-DC06-4AAD-AE68-C30C28616DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF66AC5-DC06-4AAD-AE68-C30C28616DE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
