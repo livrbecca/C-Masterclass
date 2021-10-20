@@ -27,6 +27,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadWriteFile", "ReadWriteF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MembersFinalizersDestructors", "MembersFinalizersDestructors\MembersFinalizersDestructors.csproj", "{9C72BBBA-AD46-4CD0-BB2A-9C43B7F3A7D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputCheckerProject", "ForEachSwitchProject\InputCheckerProject.csproj", "{AD4BEFA7-6ED2-48C5-8AC8-BD6A374D43D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{9C72BBBA-AD46-4CD0-BB2A-9C43B7F3A7D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C72BBBA-AD46-4CD0-BB2A-9C43B7F3A7D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C72BBBA-AD46-4CD0-BB2A-9C43B7F3A7D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD4BEFA7-6ED2-48C5-8AC8-BD6A374D43D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD4BEFA7-6ED2-48C5-8AC8-BD6A374D43D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD4BEFA7-6ED2-48C5-8AC8-BD6A374D43D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD4BEFA7-6ED2-48C5-8AC8-BD6A374D43D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
