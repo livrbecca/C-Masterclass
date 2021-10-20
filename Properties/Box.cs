@@ -33,6 +33,8 @@ namespace Properties
             get { return Height * Length; }
         }
 
+        
+
         private int length;
         public int Length
         {
