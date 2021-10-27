@@ -43,6 +43,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayLists", "ArrayLists\Ar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "v2LINQ", "v2LINQ\v2LINQ.csproj", "{0935E021-AE15-42D1-A1DB-B1D18634497C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hashtables", "Hashtables\Hashtables.csproj", "{C1CBCDBB-78BC-429F-8DF5-730F3D43F9B3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{0935E021-AE15-42D1-A1DB-B1D18634497C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0935E021-AE15-42D1-A1DB-B1D18634497C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0935E021-AE15-42D1-A1DB-B1D18634497C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1CBCDBB-78BC-429F-8DF5-730F3D43F9B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1CBCDBB-78BC-429F-8DF5-730F3D43F9B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1CBCDBB-78BC-429F-8DF5-730F3D43F9B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1CBCDBB-78BC-429F-8DF5-730F3D43F9B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
