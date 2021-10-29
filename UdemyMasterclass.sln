@@ -43,9 +43,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayLists", "ArrayLists\Ar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "v2LINQ", "v2LINQ\v2LINQ.csproj", "{0935E021-AE15-42D1-A1DB-B1D18634497C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hashtables", "Hashtables\Hashtables.csproj", "{C1CBCDBB-78BC-429F-8DF5-730F3D43F9B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hashtables", "Hashtables\Hashtables.csproj", "{C1CBCDBB-78BC-429F-8DF5-730F3D43F9B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEnumeratorAndIEnumerable", "IEnumeratorAndIEnumerable\IEnumeratorAndIEnumerable.csproj", "{E54FB45C-F025-4A9E-8E31-05899811474C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IEnumeratorAndIEnumerable", "IEnumeratorAndIEnumerable\IEnumeratorAndIEnumerable.csproj", "{E54FB45C-F025-4A9E-8E31-05899811474C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventsAndDelegates", "EventsAndDelegates\EventsAndDelegates.csproj", "{8C7E3289-C5C5-42AF-919C-29F708105812}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -141,6 +143,10 @@ Global
 		{E54FB45C-F025-4A9E-8E31-05899811474C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E54FB45C-F025-4A9E-8E31-05899811474C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E54FB45C-F025-4A9E-8E31-05899811474C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C7E3289-C5C5-42AF-919C-29F708105812}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C7E3289-C5C5-42AF-919C-29F708105812}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C7E3289-C5C5-42AF-919C-29F708105812}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C7E3289-C5C5-42AF-919C-29F708105812}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
